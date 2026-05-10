@@ -1,0 +1,6 @@
+{
+  "name": "Trip Replay",
+  "description": "Browser-based tool that turns travel routes into cinematic animated map videos",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
